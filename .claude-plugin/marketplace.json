@@ -1,0 +1,20 @@
+{
+  "name": "elevenlabs-v4-hebrew-modes",
+  "owner": {
+    "name": "Guy Cohen",
+    "url": "https://github.com/guycoful"
+  },
+  "plugins": [
+    {
+      "name": "hebrew-voice-modes",
+      "source": "./",
+      "description": "Hebrew text-to-speech with ElevenLabs v4 speaking modes for Claude Code.",
+      "version": "1.1.0",
+      "author": { "name": "Guy Cohen" },
+      "license": "MIT"
+    }
+  ],
+  "metadata": {
+    "description": "Guy Cohen: Hebrew voice modes for ElevenLabs v4"
+  }
+}
